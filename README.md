@@ -22,4 +22,4 @@ To build practical projects, improve my analytical skills, and start my career a
 - Learning projects
 
 ## 📫 Connect with me
-- LinkedIn: *(https://www.linkedin.com/in/diana-sheptukha-71678224b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*
+- LinkedIn: *(https://www.linkedin.com/in/diana-sheptukha-71678224b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*##
