@@ -2,15 +2,15 @@
 
 Aspiring Business Analyst | Mate Academy student
 
-## 🌱 Currently learning
+## Currently learning
 - Business Analysis
 - SQL
 - Git & GitHub
 - Agile
 - Data Analysis
 
-## 🎯 About me
+## About me
 I'm building practical projects and developing analytical skills to start my career as a Business Analyst.
 
-## 📫 Connect with me
-LinkedIn: 
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/diana-sheptukha-71678224b
